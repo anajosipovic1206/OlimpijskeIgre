@@ -1,0 +1,17 @@
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\OlimpijskeIgre.exe
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\OlimpijskeIgre.deps.json
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\OlimpijskeIgre.runtimeconfig.json
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\OlimpijskeIgre.dll
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\OlimpijskeIgre.pdb
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.AssemblyInfoInputs.cache
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.AssemblyInfo.cs
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.csproj.CoreCompileInputs.cache
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.dll
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\refint\OlimpijskeIgre.dll
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.pdb
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.genruntimeconfig.cache
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\ref\OlimpijskeIgre.dll
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\OlimpijskeIgre.csproj.AssemblyReference.cache
+C:\Users\W541\OlimpijskeIgre\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\W541\OlimpijskeIgre\obj\Debug\net8.0\Olimpijs.F1B425E0.Up2Date

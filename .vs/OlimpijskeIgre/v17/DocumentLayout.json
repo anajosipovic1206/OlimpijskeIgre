@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W541\\OlimpijskeIgre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\olimpijskeigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:olimpijskeigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\izlozbenimec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:izlozbenimec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\tim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:tim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\timjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:timjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\tabelaentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:tabelaentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\exibitions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:exibitions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|c:\\users\\w541\\olimpijskeigre\\olimpijskeigre.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BEB01E1-6831-4BB2-A99A-AF1E08A615E2}|OlimpijskeIgre.csproj|solutionrelative:olimpijskeigre.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tim.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\Tim.cs",
+              "RelativeDocumentMoniker": "Tim.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\Tim.cs",
+              "RelativeToolTip": "Tim.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:50:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IzlozbeniMec.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\IzlozbeniMec.cs",
+              "RelativeDocumentMoniker": "IzlozbeniMec.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\IzlozbeniMec.cs",
+              "RelativeToolTip": "IzlozbeniMec.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:52:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OlimpijskeIgre.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\OlimpijskeIgre.cs",
+              "RelativeDocumentMoniker": "OlimpijskeIgre.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\OlimpijskeIgre.cs",
+              "RelativeToolTip": "OlimpijskeIgre.cs",
+              "ViewState": "AgIAANACAAAAAAAAAAAAAOACAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:54:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TabelaEntry.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\TabelaEntry.cs",
+              "RelativeDocumentMoniker": "TabelaEntry.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\TabelaEntry.cs",
+              "RelativeToolTip": "TabelaEntry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:21:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimJson.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\TimJson.cs",
+              "RelativeDocumentMoniker": "TimJson.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\TimJson.cs",
+              "RelativeToolTip": "TimJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:14:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utakmica.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\Utakmica.cs",
+              "RelativeDocumentMoniker": "Utakmica.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\Utakmica.cs",
+              "RelativeToolTip": "Utakmica.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:16:53.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\Grupa.cs",
+              "RelativeDocumentMoniker": "Grupa.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\Grupa.cs",
+              "RelativeToolTip": "Grupa.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:50:03.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:47:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "groups.json",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\groups.json",
+              "RelativeDocumentMoniker": "groups.json",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\groups.json",
+              "RelativeToolTip": "groups.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T20:07:34.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "exibitions.json",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\exibitions.json",
+              "RelativeDocumentMoniker": "exibitions.json",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\exibitions.json",
+              "RelativeToolTip": "exibitions.json",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T20:31:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OlimpijskeIgre.csproj",
+              "DocumentMoniker": "C:\\Users\\W541\\OlimpijskeIgre\\OlimpijskeIgre.csproj",
+              "RelativeDocumentMoniker": "OlimpijskeIgre.csproj",
+              "ToolTip": "C:\\Users\\W541\\OlimpijskeIgre\\OlimpijskeIgre.csproj",
+              "RelativeToolTip": "OlimpijskeIgre.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T07:50:57.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
